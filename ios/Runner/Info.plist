@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Enna عنة</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Enna عنة</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram-stories</string>
+		<string>instagram</string>
+		<string>whatsapp</string>
+		<string>comgooglemaps</string>
+		<string>iosamap</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>For playing media files</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>for adding events to calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please give access to your camera for taking the picture for changing profile picture or share reciept in transaction screen</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Forcontacting the users</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This will help you to send your current location to your friends in a message and to create an event with your current location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This will help you to send your current location to your friends in a message and to create an event with your current location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This will help you to send your current location to your friends in a message and to create an event with your current location</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Please give access to your microphone for recording audio</string>
+	<key>NSMotionUsageDescription</key>
+	<string>For Understanding motion of device for better serving of application</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please give access to the photo library for upload photos like profile photo and share Images</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>For detectecting sepeech recognization for better serving of application</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	
+</dict>
+</plist>

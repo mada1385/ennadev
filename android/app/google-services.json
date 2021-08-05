@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417878977051",
+    "firebase_url": "https://enna-f54f1.firebaseio.com",
+    "project_id": "enna-f54f1",
+    "storage_bucket": "enna-f54f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417878977051:android:d1108080eb0ea3789066be",
+        "android_client_info": {
+          "package_name": "com.overrideeg.apps.enna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417878977051-a8db6fsi7ou654graofd8e3tj79erdro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.overrideeg.apps.enna",
+            "certificate_hash": "4165c553b935cfd78166856b4ab6bcb3ebcaf4b9"
+          }
+        },
+        {
+          "client_id": "417878977051-2s3veu5di36s0q3nmkknblggc7f0fd2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fFjJW-6CmsUzteDm3RUFwjUXuDZjgao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417878977051-2s3veu5di36s0q3nmkknblggc7f0fd2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

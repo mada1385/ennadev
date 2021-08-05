@@ -1,0 +1,20 @@
+keytool -genKey -v -keystore ~/Projects/Flutter-Projects/Enna/Key/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias override
+Enter keystore password:  
+Re-enter new password: 
+
+# Password : overrideeg
+
+What is your first and last name?
+  [Unknown]:  omar
+What is the name of your organizational unit?
+  [Unknown]:  mobile
+What is the name of your organization?
+  [Unknown]:  override
+What is the name of your City or Locality?
+  [Unknown]:  cairo
+What is the name of your State or Province?
+  [Unknown]:  cairo
+What is the two-letter country code for this unit?
+  [Unknown]:  OV
+Is CN=omar, OU=mobile, O=override, L=cairo, ST=cairo, C=OV correct?
+  [no]:  yes
